@@ -1,5 +1,5 @@
 # detail page 기능 리스트
-
+뭐라도 했어여 detail page
 
 
 
